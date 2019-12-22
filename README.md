@@ -10,3 +10,7 @@
 > Use Open API
 
 - OpenWeatherMap
+
+> Development Platform
+
+ -Firebase
