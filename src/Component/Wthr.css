@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  width: auto;
+  margin: auto;
+  padding: 10px;
+  font-size: 3em;
+}
+.wthr-info {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+
+.info-container {
+  float: left;
+  font-size: 2em;
+  padding: 5px;
+}
