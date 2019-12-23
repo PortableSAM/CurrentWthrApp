@@ -14,3 +14,6 @@
 > Development Platform
 
 - Firebase
+
+# Information
+ > Location based real time weather web app
